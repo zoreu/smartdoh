@@ -1,2 +1,3 @@
 # smartdoh
-lista de dominios permitidos
+
+https://smartdoh.wasmer.app/dns-query
